@@ -9,7 +9,8 @@ def fizzbuzz(int)
  elsif int.to_i % 5
  puts "Buzz"  
  
- else  puts "nil" 
+ else  
+ puts "nil" 
    
 
 end
