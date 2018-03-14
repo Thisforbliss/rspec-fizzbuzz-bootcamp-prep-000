@@ -1,8 +1,6 @@
 def fizzbuzz(int)
 
- if int.to_i % 3 == 0 && 
-   &&
-   int.to_i % 5 == 0
+ if int.to_i % 3 == 0 &&  int.to_i % 5 == 0
   puts "FizzBuzz"
  
  elsif int.to_i % 3 == 0
