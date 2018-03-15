@@ -4,7 +4,7 @@ def fizzbuzz(int)
   return "FizzBuzz"
  
  elsif int.to_i % 3 == 0
-  puts "Fizz"
+   "Fizz"
  
  elsif int.to_i % 5 == 0
  puts "Buzz"  
