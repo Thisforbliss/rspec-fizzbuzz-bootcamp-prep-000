@@ -7,10 +7,10 @@ def fizzbuzz(int)
   return "Fizz"
  
  elsif int.to_i % 5 == 0
-  "Buzz"  
+ return "Buzz"  
  
  else  
- puts "nil" 
+  "nil" 
    
 end
 end
