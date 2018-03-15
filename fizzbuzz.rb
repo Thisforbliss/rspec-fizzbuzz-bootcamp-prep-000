@@ -4,10 +4,10 @@ def fizzbuzz(int)
   return "FizzBuzz"
  
  elsif int.to_i % 3 == 0
-   "Fizz"
+  return "Fizz"
  
  elsif int.to_i % 5 == 0
- puts "Buzz"  
+  "Buzz"  
  
  else  
  puts "nil" 
